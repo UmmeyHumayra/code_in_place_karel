@@ -74,6 +74,7 @@ As a side note, one of the earliest programs Mehran wrote (with his friend Matth
 
 Beyond addition?
 There is no limit to how awesome you can make your learning software. Can you get it to teach? Can you get it to offer problems other than addition? Get creative! Have fun!
+https://codeinplace.stanford.edu/cip4/share/X6nOJloQld1Xmo8FU9OJ  
 """
 
 import random
